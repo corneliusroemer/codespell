@@ -17,7 +17,6 @@ cas->case, cast,
 clas->class
 cloneable->clonable
 cmo->com
-copyable->copiable
 creat->create, crate,
 dateset->dataset
 datesets->datasets
