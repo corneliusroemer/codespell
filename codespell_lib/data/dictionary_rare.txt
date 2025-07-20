@@ -280,7 +280,6 @@ tittle->title
 tittles->title
 toke->token, took,
 tread->thread, treat,
-trough->through
 underate->underrate
 unknow->unknown
 unknows->unknowns
