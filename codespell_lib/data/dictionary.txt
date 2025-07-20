@@ -45475,12 +45475,6 @@ pre-congifure->pre-configure
 pre-congifured->pre-configured
 pre-defiend->pre-defined
 pre-defiened->pre-defined
-pre-empt->preempt
-pre-empted->preempted
-pre-empting->preempting
-pre-emptive->preemptive
-pre-emptively->preemptively
-pre-empts->preempts
 pre-pend->prepend
 pre-pended->prepended
 pre-pending->prepending
