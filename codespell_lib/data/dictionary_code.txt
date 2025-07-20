@@ -22,7 +22,6 @@ creat->create
 dateset->dataset
 datesets->datasets
 define'd->defined
-deque->dequeue
 doas->does, do as,
 dof->of, doff,
 dont->don't
