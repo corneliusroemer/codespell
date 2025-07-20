@@ -59598,7 +59598,6 @@ tornadoe->tornado
 torough->thorough, to rough,
 toroughly->thoroughly, to roughly,
 torpeados->torpedoes
-torpedos->torpedoes
 tortilini->tortellini
 tortise->tortoise
 tortoitse->tortoise, tortoises,
