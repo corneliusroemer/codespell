@@ -3748,7 +3748,6 @@ alpbabetic->alphabetic
 alpbabetical->alphabetical
 alpbabetically->alphabetically
 alph->alpha
-alpha-numeric->alphanumeric
 alphabeast->alphabet
 alphabeat->alphabet
 alphabeticall->alphabetical
